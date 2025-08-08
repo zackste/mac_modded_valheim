@@ -2,6 +2,8 @@
 # versions may be considered out of date when cloning. Mods should be in the
 # format of '<author>-<name>-<3.part.version>.zip'. Mod files must resolve to
 # files hosted on Thunderstore.io.
+#
+# NOTE: This file must have a trailing blank line.
 
 Advize-CartographySkill-3.0.1.zip
 Advize-PlantEasily-2.0.3.zip
